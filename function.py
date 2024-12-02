@@ -15,3 +15,4 @@ def update_todos(todos_args,filepath=FILEPATH):
 if __name__ == "__main__":
     print("Hello")
     print(get_todos())
+    print("Hey there!")
